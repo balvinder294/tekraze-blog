@@ -48,7 +48,7 @@
             {
                 "type": "action",
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/tekraze?lang=en",
                 "style": "icon",
                 "icon_class": "fa-twitter",
                 "new_window": true
