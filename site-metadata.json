@@ -80,7 +80,7 @@
             {
                 "type": "action",
                 "label": "DEV",
-                "url": "https://dev.to/",
+                "url": "https://dev.to/balvinder294",
                 "style": "icon",
                 "icon_class": "fa-dev",
                 "new_window": true
